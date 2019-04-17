@@ -10,3 +10,7 @@ List of dev surveys
 ## JavaScript
 
 * [State of JavaScript](https://2018.stateofjs.com/introduction)
+
+## Ongoing
+
+* [GitLab](https://about.gitlab.com/2019/01/23/2019-developer-survey-announcement/)
